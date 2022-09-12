@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/saadchadu" target="blank"><img src="https://img.shields.io/twitter/follow/saadchadu?logo=twitter&style=for-the-badge" alt="saadchadu" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [saadchadu.rf.gd](saadchadu.rf.gd)
+- 👨‍💻 All of my projects are available at [saad.cleffon.in](saad.cleffon.in)
 
 - 📫 How to reach me **saaadchadu@gmail.com**
 
