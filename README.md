@@ -1,35 +1,81 @@
-<h1 align="center">Hi 👋, I'm Abdulla Saad K P</h1>
-<h3 align="center">Graphics and Web expert.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saadchadu&label=Profile%20views&color=0e75b6&style=flat" alt="saadchadu" /> </p>
+# Hi, I'm Abdulla Saad K P! 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saadchadu" alt="saadchadu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saadchadu" target="blank"><img src="https://img.shields.io/twitter/follow/saadchadu?logo=twitter&style=for-the-badge" alt="saadchadu" /></a> </p>
+## Badges
 
-- 👨‍💻 All of my projects are available at [saad.cleffon.in](saad.cleffon.in)
+Add badges from somewhere like: [shields.io](https://shields.io/)
 
-- 📫 How to reach me **saaadchadu@gmail.com**
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ec9OXaFO3oq4cvRu3jvIPTBrVQMUDAEI/view?usp=sharing](https://drive.google.com/file/d/1Ec9OXaFO3oq4cvRu3jvIPTBrVQMUDAEI/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/saadchadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saadchadu" height="30" width="40" /></a>
-<a href="https://twitter.com/saadchadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadchadu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdulla-saad-kp-183137168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulla-saad-kp-183137168/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16524816" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16524816" height="30" width="40" /></a>
-<a href="https://fb.com/saadchadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saadchadu" height="30" width="40" /></a>
-<a href="https://instagram.com/saadchadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saadchadu" height="30" width="40" /></a>
-<a href="https://dribbble.com/saadchadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="saadchadu" height="30" width="40" /></a>
-<a href="https://www.behance.net/saadchadu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="saadchadu" height="30" width="40" /></a>
-</p>
+## Contributing
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+Contributions are always welcome!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saadchadu&show_icons=true&locale=en&layout=compact" alt="saadchadu" /></p>
+See `contributing.md` for ways to get started.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saadchadu&show_icons=true&locale=en" alt="saadchadu" /></p>
+Please adhere to this project's `code of conduct`.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadchadu&" alt="saadchadu" /></p>
+
+## 🛠 Skills
+Javascript, HTML, CSS...
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on...
+
+🧠 I'm currently learning...
+
+👯‍♀️ I'm looking to collaborate on...
+
+🤔 I'm looking for help with...
+
+💬 Ask me about...
+
+📫 How to reach me...
+
+😄 Pronouns...
+
+⚡️ Fun fact...
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
+
+## Optimizations
+
+What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
